@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     }   **/
 
+    // Tere
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
